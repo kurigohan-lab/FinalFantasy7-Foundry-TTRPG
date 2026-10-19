@@ -1,7 +1,7 @@
 {
-  "id": "metal-gear-style-system",
-  "title": "Metal Gear Style Tactical RPG",
-  "description": "Tactical dossier character system.",
+  "id": "system-final-fantasy-7",
+  "title": "Final Fantasy 7- TTRPG",
+  "description": "Final Fantasy 7 for Foundry.",
   "version": "0.15.0",
   "compatibility": {
     "minimum": "13",
@@ -25,6 +25,6 @@
     "Item": {}
   },
   "manifest": "https://raw.githubusercontent.com/kurigohan-lab/MagicalGirlPlusUltra/main/system.json",
-  "download": "https://github.com/kurigohan-lab/MagicalGirlPlusUltra/releases/download/Release/foundry_mod_v0.59.26_engaged_contrast_fix.zip",
+  "download": "https://github.com/kurigohan-lab/FinalFantasy7-Foundry-TTRPG/releases/download/Main/FF7-TTRPG-v0.0.0.zip",
   "url": "https://github.com/kurigohan-lab/MagicalGirlPlusUltra"
 }
